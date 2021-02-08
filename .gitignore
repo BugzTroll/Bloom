@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Binaries
+Bloom/Binaries*
+Bloom/Intermediate*
+Bloom/Saved*
+Bloom/DerivedDataCache*
